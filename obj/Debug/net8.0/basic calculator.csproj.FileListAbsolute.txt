@@ -1,0 +1,14 @@
+C:\Users\King\Desktop\VSC\basic calculator\obj\Debug\net8.0\basic calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King\Desktop\VSC\basic calculator\obj\Debug\net8.0\basic calculator.AssemblyInfoInputs.cache
+C:\Users\King\Desktop\VSC\basic calculator\obj\Debug\net8.0\basic calculator.AssemblyInfo.cs
+C:\Users\King\Desktop\VSC\basic calculator\obj\Debug\net8.0\basic calculator.csproj.CoreCompileInputs.cache
+C:\Users\King\Desktop\VSC\basic calculator\bin\Debug\net8.0\basic calculator.exe
+C:\Users\King\Desktop\VSC\basic calculator\bin\Debug\net8.0\basic calculator.deps.json
+C:\Users\King\Desktop\VSC\basic calculator\bin\Debug\net8.0\basic calculator.runtimeconfig.json
+C:\Users\King\Desktop\VSC\basic calculator\bin\Debug\net8.0\basic calculator.dll
+C:\Users\King\Desktop\VSC\basic calculator\bin\Debug\net8.0\basic calculator.pdb
+C:\Users\King\Desktop\VSC\basic calculator\obj\Debug\net8.0\basic calculator.dll
+C:\Users\King\Desktop\VSC\basic calculator\obj\Debug\net8.0\refint\basic calculator.dll
+C:\Users\King\Desktop\VSC\basic calculator\obj\Debug\net8.0\basic calculator.pdb
+C:\Users\King\Desktop\VSC\basic calculator\obj\Debug\net8.0\basic calculator.genruntimeconfig.cache
+C:\Users\King\Desktop\VSC\basic calculator\obj\Debug\net8.0\ref\basic calculator.dll
